@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="" width="100"/>
+  <img src="https://github.com/Mouhamedazizdridi/Mouhamedazizdridi/blob/main/MySticker..png?raw=true" alt="My Banner" width="30%" height="30%">
   <h1>
     Hi there, I'm Aziz 👋
   </h1>
