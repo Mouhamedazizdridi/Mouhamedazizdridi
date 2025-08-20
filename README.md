@@ -10,4 +10,7 @@
 
 
 ## About Me
-Passionate about programming with solid fundamentals, aiming to become a skilled backend developer in the future.
+💻 I’m a Computer Science student passionate about programming with solid fundamentals.
+🔧 My goal is to become a skilled Backend Developer in the future.
+🤖 Over time, I also aspire to explore and grow in the Machine Learning field.
+📚 Always learning, always improving!
