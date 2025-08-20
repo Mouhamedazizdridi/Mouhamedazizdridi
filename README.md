@@ -4,6 +4,8 @@
     Hi there, I'm Aziz 👋
   </h1>
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Future+.NET+Backend+Developer;Always+learning+and+growing..." alt="Typing SVG" />
+  <img src="[[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Future+.NET+Backend+Developer;Always+learning+and+growing...](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Future+Backend+Developer
+)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Future+Backend+Developer
+)" alt="Typing SVG" />
 </a>
 </div>
